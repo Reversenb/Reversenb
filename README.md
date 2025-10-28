@@ -27,6 +27,4 @@ src="https://img.shields.io/github/followers/Reversenb?logo=github&style=for-the
 
 <a href="http://www.github.com/Reversenb"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Reversenb&stroke=ffffff&background=1c1917&ring=444e59&fire=444e59&currStreakNum=ffffff&currStreakLabel=444e59&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<b>Top Repositories</b>
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
