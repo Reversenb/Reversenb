@@ -21,10 +21,5 @@ web development and programming stuff
 src="https://img.shields.io/github/followers/Reversenb?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Reversenb"><img src="https://github-readme-stats.vercel.app/api?username=Reversenb&show_icons=true&hide=&count_private=true&title_color=444e59&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Reversenb's GitHub stats" /></a>
-
-<a href="http://www.github.com/Reversenb"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Reversenb&stroke=ffffff&background=1c1917&ring=444e59&fire=444e59&currStreakNum=ffffff&currStreakLabel=444e59&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 
