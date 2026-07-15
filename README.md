@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thanabodee Sahakongsin</h1>
-<h3 align="center">Full-Stack Developer | Bridging elegant UI/UX with robust backend systems</h3>
+<h3 align="center">Full-Stack Developer</h3>
 
 <p align="center">
   <a href="https://thanabodee-ruddy.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-thanabodee--ruddy.vercel.app-2f3640?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
@@ -65,4 +65,4 @@
 
 ---
 
-<p align="center"><i>"Passionate about bridging elegant UI/UX design with robust technical implementation."</i></p>
+<p align="center"><i>"Thanabodee Sahakongsin."</i></p>
